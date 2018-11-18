@@ -66,3 +66,6 @@ fastlane/readme.md
 
 # JetBrains IDE
 .idea
+
+# macOS finder config
+.DS_STORE
